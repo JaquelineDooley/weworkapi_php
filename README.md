@@ -1,4 +1,4 @@
-# About
+#!About
 weworkapi_php 是为了简化开发者对企业微信API接口的使用而设计的，API调用库系列之php版本    
 包括企业API接口、消息回调处理方法、第三方开放接口等    
 本库仅做示范用，并不保证完全无bug；  
@@ -79,3 +79,4 @@ abelzhu@tencent.com
 xiqunpan@tencent.com  
 
 # 
+ 
